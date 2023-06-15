@@ -1,17 +1,17 @@
 [
 	{
 		"id" : 1,
-		"author" : "toto@gmail.com"
+		"author" : "toto@gmail.com",
 		"message" : "Mais Attila vous y attend, Sire! Attila! Le Fléau de Dieu! Mais…"
 	},
 	{
 		"id" : 2,
-		"author" : "clodomir@gmail.com"
+		"author" : "clodomir@gmail.com",
 		"message" : "Moi j’appelle ça des politesses! S'il y a un autre qui groupe qui arrive par là on est marron des deux côtés"
 	},
 	{
 		"id" : 3,
-		"author" : "ratio@gmail.com"
+		"author" : "ratio@gmail.com",
 		"message" : "Parce que les rares fois où il arrive à faire quelque chose de ses dix doigts"
 	}
 ]
